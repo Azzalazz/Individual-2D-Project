@@ -22,7 +22,7 @@ shoot.
 2. Waves of enemies begin to approach from the top of the screen, slowly moving down
 toward the player's ship.
 3. The player shoots enemies in the active lane using the spacebar. If an enemy is hit, its
-health decreases, and it might be pushed back up the screen.
+health decreases, allowing the score board to increase points. 
 4. Enemies have different health levels, with some being destroyed faster and others
 needing multiple hits to defeat.
 5. The game becomes progressively harder with more enemies, faster movement, and
