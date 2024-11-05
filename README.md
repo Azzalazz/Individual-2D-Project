@@ -1,4 +1,4 @@
-# game
+# Galaxy Striker 
 Galaxy Striker is a 2D arcade-style shooting game where the player controls a spaceship that can
 move between three lanes (left, middle, and right) while shooting incoming enemies. The
 goal is to survive as long as possible while achieving a
